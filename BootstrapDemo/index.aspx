@@ -13,25 +13,25 @@
     <!-- Le styles -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
-    <style>
+    <style>    
 
-   /* GLOBAL STYLES 
+   /* GLOBAL  STYLES 
     -------------------------------------------------- */
     /* Padding below the footer and lighter body text */
 
-    body {
+    body {    
       padding-bottom:  40px;
       color: #5a5a5a;  
     }
 
-
+   
 
     /* CUSTOMIZE THE NAVBAR
     -------------------------------------------------- */
 
     /* Special class on .container surrounding .navbar, used for positioning it into place. */
     .navbar-wrapper {
-      position: absolute;
+      position:  absolute;
       top: 0;
       left: 0;
       right: 0;
@@ -46,9 +46,9 @@
     /* Remove border and change up box shadow for more contrast */
     .navbar .navbar-inner {
       border: 0;
-      -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
-         -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
-              box-shadow: 0 2px 10px rgba(0,0,0,.25);
+      -webkit-box-shadow:  0 2px 10px rgba(0,0,0,.25);
+         -moz-box-shadow:  0 2px 10px rgba(0,0,0,.25);
+              box-shadow:  0 2px 10px rgba(0,0,0,.25);
     }
 
     /* Downsize the brand/project name a bit */
